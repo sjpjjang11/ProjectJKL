@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 33c9d613343655d4b90747061ccd5c89
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: coalmine01
+    100002: coalmine01_sand
+    100004: coalmine_bg
+    100006: coalmine_bg_02
+    100008: coalmine_bg_glow
+    100010: coalmine_bg_sky
+    100012: //RootNode
+    400000: coalmine01
+    400002: coalmine01_sand
+    400004: coalmine_bg
+    400006: coalmine_bg_02
+    400008: coalmine_bg_glow
+    400010: coalmine_bg_sky
+    400012: //RootNode
+    2100000: 'Material #2395'
+    2100002: 03 - Defaults
+    2100004: 'Material #1707'
+    2100006: 'Material #2431'
+    2100008: 05 - Default
+    2100010: 06 - Default
+    2100012: 12 - Default
+    2100014: 'Material #1733'
+    2100016: 'Material #1891'
+    2100018: 'Material #1681'
+    2100020: 07 - Default
+    2100022: 'Material #1694'
+    2100024: 'Material #1936'
+    2100026: 'Material #1650'
+    2100028: 'Material #2190'
+    2100030: 'Material #2187'
+    2100032: 'Material #2189'
+    2100034: 'Material #2188'
+    2100036: 'Material #2186'
+    2100038: 03 - Default
+    2100040: 02 - Default
+    2100042: 'Material #2539'
+    2300000: coalmine01
+    2300002: coalmine01_sand
+    2300004: coalmine_bg
+    2300006: coalmine_bg_02
+    2300008: coalmine_bg_glow
+    2300010: coalmine_bg_sky
+    3300000: coalmine01
+    3300002: coalmine01_sand
+    3300004: coalmine_bg
+    3300006: coalmine_bg_02
+    3300008: coalmine_bg_glow
+    3300010: coalmine_bg_sky
+    4300000: coalmine_bg
+    4300002: coalmine_bg_02
+    4300004: coalmine_bg_sky
+    4300006: coalmine_bg_glow
+    4300008: coalmine01
+    4300010: coalmine01_sand
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
